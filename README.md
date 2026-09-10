@@ -27,7 +27,7 @@ A clean, self-hosted web scraper with a modern UI. Paste a URL, get structured d
 ## Install
 
 ```bash
-git clone https://github.com/YOURUSERNAME/cute-scraper.git
+git clone https://github.com/rememberpeace/cute-scraper.git
 cd cute-scraper
 
 python -m venv venv
